@@ -1,6 +1,6 @@
 # StoreAPI com FastAPI e TDD
 
-![Diagrama de Arquitetura](/docs/img/store.drawio.png)
+![Diagrama de Arquitetura](docs/img/store.drawio.png)
 
 ## Descrição do Projeto
 
@@ -22,7 +22,7 @@ O objetivo deste projeto é demonstrar como aplicar TDD na prática, desenvolven
 
 ### Diagrama de Criação de Produto
 
-![Diagrama de Criação de Produto](/docs/img/product.drawio.png)
+![Diagrama de Criação de Produto](docs/img/product.drawio.png)
 
 ### Outros Diagramas (Listagem, Detalhamento, Atualização, Exclusão)
 
