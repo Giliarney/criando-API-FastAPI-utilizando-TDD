@@ -1,6 +1,6 @@
 # StoreAPI com FastAPI e TDD
 
-![Diagrama de Arquitetura](docs/img/store.drawio.png)
+![Diagrama de Arquitetura](docs/images/architecture.png)
 
 ## Descrição do Projeto
 
